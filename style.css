@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto Mono", Monospace;
+}
+
+.info, .downloads {
+  background-color: #90afd6;
+  border-radius: 15px;
+  padding: 3px;
+}
+
+.title {
+  font-size: 300%;
+} 
